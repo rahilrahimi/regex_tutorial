@@ -111,21 +111,21 @@ Most regex flavors support up to 99 capturing groups and double-digit backrefere
 Lookahead and lookbehind, collectively called “lookaround”, are zero-length assertions just like the start and end of line, and start and end of word anchors explained earlier in this tutorial. The difference is that lookaround actually matches characters, but then gives up the match, returning only the result: match or no match. That is why they are called “assertions”. They do not consume characters in the string, but only assert whether a match is possible or not. Lookaround allows you to create regular expressions that are impossible to create without them, or that would get very longwinded without them.
 
 ### References 
-# https://gist.github.com/rizznn/7e524af5f10d2b1870e8babe2e936b0f
+## https://gist.github.com/rizznn/7e524af5f10d2b1870e8babe2e936b0f
 
-# https://www.codeguage.com/courses/regexp/flags
+## https://www.codeguage.com/courses/regexp/flags
 
-# https://www.geeksforgeeks.org/perl-operators-in-regular-expression/
+## https://www.geeksforgeeks.org/perl-operators-in-regular-expression/
 
-# https://www.regular-expressions.info/wordboundaries.html
+## https://www.regular-expressions.info/wordboundaries.html
 
-# https://www.regular-expressions.info/backref.html
+## https://www.regular-expressions.info/backref.html
 
-# https://www.regular-expressions.info/lookaround.html
+## https://www.regular-expressions.info/lookaround.html
 
 
 ## Author
 Rahil Rahimi is a student of University of GWU who is currently taking a coding bootcamp course to be a Full Stack Developer. Github link:
-# https://github.com/rahilrahimi?tab=repositories
+### https://github.com/rahilrahimi?tab=repositories
 
 
