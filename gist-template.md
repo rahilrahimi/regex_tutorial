@@ -74,7 +74,7 @@ An example of bracket expressions: in the expression [abc], it matches any chara
 ### Greedy and Lazy Match
 The greedy and lazy pattern will match the longest and shortest possible string. The quantifiers *, +, and {} are greedy operators which means the match is expanded as far as they can through the provided expression. In our regex, we have two greedy quantifiers: + and {}. To make it lazy and find the shortest match, we can use a ?.
 
-An example of greedy and lazy match: in the expression <h1>Title</h1>, using this <.+> which includes greedy quantifier will match the whole expression <h1>Title</h1>. Adding ? to make it lazy <.+?> will match any character at least one or more times inside the < and > expanding as needed - the result only matches the h1 tags <h1> and </h1>.
+An example of greedy and lazy match: in the expression <h1>Title</h1>, using this <.+> which includes greedy quantifier will match the whole expression (<h1>) Title (</h1>). Adding ? to make it lazy <.+?> will match any character at least one or more times inside the < and > expanding as needed - the result only matches the h1 tags (<h1>) and (</h1>).
 ### Boundaries
 The metacharacter \b is an anchor like the caret and the dollar sign. It matches at a position that is called a “word boundary”. This match is zero-length.
 
