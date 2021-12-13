@@ -1,4 +1,4 @@
-# Regex Tutorial & Verify Email 
+# Regex Tutorial 
 
 Regular Expression, or regex, is a sequence of characters that defines a search pattern. It is used to find certain patterns or find and replace a character or sequence of characters within a string. It is also used for validating inputs. There's a lot of regex that can be used to validate or verify a user such as: email address, username, etc.
 
