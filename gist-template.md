@@ -12,8 +12,6 @@ For this regex, each component has a specific responsibility to make sure or ver
 
 We will analyze and examine each component of this regex which plays a different role for the user to enter a valid email address.
 
-<!-- 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary. -->
 
 ## Table of Contents
 
@@ -112,7 +110,6 @@ Lookahead and lookbehind, collectively called “lookaround”, are zero-length 
 
 
 ## Author
-Rahil Rahimi is a student of University of GWU who is currently taking a coding bootcamp course to be a Full Stack Developer. Github link: 
+Rahil Rahimi is a student of University of GWU who is currently taking a coding bootcamp course to be a Full Stack Developer. Github link: https://github.com/rahilrahimi?tab=repositories
 
 
-<!-- A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile) -->
